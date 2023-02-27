@@ -1,0 +1,10 @@
+{
+    "token": "TOKEN BOT",
+    "prefisso": "PREFISSO",
+    "serverid": "ID SERVER DISCORD",
+    "staffid": "ID RUOLO STAFF",
+    "testopanel": "TESTO PANNELLO ",
+    "rispostaticket": "TESTO RISPOSTA AUTOMATICA TICKET",
+    "categoria": "ID CATEGORIA IN CUI VERRà CREATO IL TICKET",
+    "botid": "ID DEL BOT"
+}
